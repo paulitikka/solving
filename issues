@@ -1,6 +1,14 @@
-
 1) Scvelo problem: A Better Description of How to Import R Generated Loom File without Splicing Info to Scvelo
 https://github.com/theislab/scvelo/issues/744
 
-2) Monocle2 problem: Error in slot(object = *tmp*, name = "preprocess_aux")
+2) Scvelo problem: Running the velocity_graph function produces an error
+https://github.com/theislab/scvelo/issues/746
+
+3) Scvelo problem: scvelo invert direction issue
+https://github.com/theislab/scvelo/issues/112
+
+4) Monocle2 problem: Error in slot(object = *tmp*, name = "preprocess_aux")
 https://github.com/satijalab/seurat-wrappers/issues/119#issuecomment-1318008002
+
+5) Salmon problem: Installing Salmon
+https://github.com/COMBINE-lab/salmon/issues/716
